@@ -1,0 +1,2 @@
+# using-system
+using System; using System.Collections.Generic; using System.ComponentModel; using System.Data; using System.Drawing; using System.Linq; using System.Text; using System.Windows.Forms;   using.System.ID.Ports;  namespace WindowsFormsApplication1 {     public partial class Form1 : Form     {        String()Portlar.SerialPort  GetPortNames();         public Form1()           {             InitializeComponent();         }     } }
